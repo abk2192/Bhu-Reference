@@ -1,0 +1,25 @@
+{
+  "name": "Bhu-Align Bihar Land Map Overlay",
+  "short_name": "Bhu-Align",
+  "description": "Step-by-Step 1-Point Locked Scale & 2-Point Revenue PDF to Google Map Overlay PWA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
